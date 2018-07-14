@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Apeal</string>
+    <string name="phone_hint">מספר טלפון</string>
+    <string name="insert_phone_text">להתחלת השימוש יש להזין מספר טלפון</string>
+    <string name="insert_sms_text">אנא הזן את הקוד שנשלח למכשירך</string>
+    <string name="continue_">המשך</string>
+    <string name="phone_number_invalid">מספר טלפון אינו תקין</string>
+    <string name="logout">התנתק</string>
+    <string name="newAppeal">ערעור חדש</string>
+    <string name="myAppeals">הערעורים שלי</string>
+    <string name="sms_code_invalid">קוד אינו תקין</string>
+    <string name="welcome_text">ברוכים הבאים</string>
+    <string name="error">אירעה שגיאה, אנא נסה שנית</string>
+</resources>
